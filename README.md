@@ -1,73 +1,56 @@
-<!-- HEADER -->
-<h1 align="center">Hi there 👋, I'm Haikal</h1>
-<h3 align="center">Statistics & Data Science Student | IPB University</h3>
+<h1 align="center">M. Haikal Tabrani</h1>
+<p align="center">
+  <em>Statistics & Data Science Undergraduate at IPB University</em>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Data+Enthusiast;Aspiring+Data+Scientist;Love+Statistics%2C+Analytics%2C+and+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&pause=1000&center=true&vCenter=true&width=500&lines=Statistics+%26+Data+Science;Data+Analysis+%7C+Modeling+%7C+Research;Learning+by+Doing" />
 </p>
 
 ---
 
-## 🚀 About Me
-🎓 **Undergraduate Student** at **IPB University**  
-📊 Major in **Statistics & Data Science**  
-📚 Passionate about **Data Analysis, Regression, Machine Learning, and Research**  
-🤝 Active in **Academic & Educational Organizations**  
-🌱 Currently learning **Python, R, SQL, and Data Visualization**
+## About
+I am an undergraduate student majoring in **Statistics and Data Science** at **IPB University**.  
+My academic interests lie in **statistical modeling, regression analysis, and data-driven decision making**.  
+I enjoy translating data into insights and presenting them in a clear, structured, and meaningful way.
 
 ---
 
-## 🧠 Interests
-- 📈 Statistical Modeling & Regression Analysis  
-- 🤖 Machine Learning & Data Science  
-- 📊 Data Visualization & Storytelling  
-- 🎓 Education & Academic Development  
-- 🌊 Biomimicry & Innovation (Marine Inspiration)
+## Academic Interests
+- Statistical Inference & Regression Analysis  
+- Data Analysis & Visualization  
+- Machine Learning Fundamentals  
+- Research & Applied Statistics  
+- Education & Academic Development  
 
 ---
 
-## 🛠️ Tech Stack
+## Tools & Technologies
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,git,github,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Overview
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=graywhite&hide_border=true&title_color=000000&icon_color=000000" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=graywhite&hide_border=true&title_color=000000" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME_KAMU&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
+## Contact
 <p align="left">
-  <a href="https://linkedin.com/in/USERNAME_KAMU" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://instagram.com/USERNAME_KAMU" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="mailto:EMAIL_KAMU@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <a href="https://linkedin.com/in/USERNAME_KAMU">LinkedIn</a> ·
+  <a href="mailto:EMAIL_KAMU@gmail.com">Email</a> ·
+  <a href="https://instagram.com/USERNAME_KAMU">Instagram</a>
 </p>
 
 ---
 
-## ✨ Fun Fact
-> *"Without data, you're just another person with an opinion."* 📊
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:00d2ff&height=120&section=footer"/>
+  <sub>
+    “In God we trust. All others must bring data.” — W. Edwards Deming
+  </sub>
 </p>
